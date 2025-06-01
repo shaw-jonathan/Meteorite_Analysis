@@ -5,7 +5,5 @@ streamlit==1.32.0
 streamlit-option-menu==0.3.2
 scikit-learn==1.2.2
 matplotlib==3.8.4
-pydeck
-folium
-streamlit_folium
-folium.plugins
+pydeck==0.7.1
+folium==0.14.0
