@@ -8,4 +8,5 @@ matplotlib==3.8.4
 pydeck==0.8.1b0
 folium==0.14.0
 seaborn==0.12.2
+streamlit_folium==0.11.4
 
